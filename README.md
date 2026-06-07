@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:A computer Science Student with foundation of IT jobs
 LINUX  (file Permissions,coomands,kernal) etc<br>NETWORKING FUNDAMENTALS(osi model,tcp ip model,protocols,Active directory) etc<br>SQL ORACLE(curd operations,joins,subqueeries) etc<br>CORE JAVA .
 
 
